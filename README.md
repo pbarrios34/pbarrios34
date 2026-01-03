@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on various exciting projects.
 - 🌱 I’m always learning and exploring new technologies.
 - 💬 Ask me about anything related to programming, I’m happy to help!
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Email](mailto:barrios.paolo1993@gmail.com)
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I love coding and solving complex problems.
 
